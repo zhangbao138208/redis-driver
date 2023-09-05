@@ -1,4 +1,4 @@
-[go-locks/distlock](https://github.com/go-locks/distlock) 的 `Redis` 驱动。客户端使用 [letsfire/redigo](https://github.com/letsfire/redigo) 实现，同时支持 `alone` `cluster` `sentinel` 3种部署模式。本驱动支持互斥锁 `mutex` 和读写锁 `rwmutex`。更多使用案例详见 [examples](https://github.com/go-locks/examples)
+[zhangbao138208/distlock](https://github.com/zhangbao138208/redis-driver) 的 `Redis` 驱动。客户端使用 [letsfire/redigo](https://github.com/letsfire/redigo) 实现，同时支持 `alone` `cluster` `sentinel` 3种部署模式。本驱动支持互斥锁 `mutex` 和读写锁 `rwmutex`。更多使用案例详见 [examples](https://github.com/go-locks/examples)
 
 
 ## 代码实例
